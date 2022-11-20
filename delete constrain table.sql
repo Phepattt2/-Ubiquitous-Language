@@ -1,0 +1,2 @@
+use project;
+SET FOREIGN_KEY_CHECKS=0; DROP TABLE teacher_posts_xxx; SET FOREIGN_KEY_CHECKS=1;
